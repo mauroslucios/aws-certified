@@ -1,0 +1,96 @@
+A company is planning to run a global marketing application in the AWS Cloud. The application will feature videos that can be viewed by users. The company must ensure that all users can view these videos with low latency.
+Which AWS service should the company use to meet this requirement?
+
+A. AWS Auto Scaling
+B. Amazon Kinesis Video Streams
+C. Elastic Load Balancing
+D. Amazon CloudFront Most Voted 
+
+Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
+
+A. Security
+B. Reliability Most Voted
+C. Performance efficiency
+D. Cost optimization
+
+Which of the following are benefits of migrating to the AWS Cloud? (Choose two.)
+
+A. Operational resilience Most Voted
+B. Discounts for products on Amazon.com
+C. Business agility Most Voted
+D. Business excellence
+E. Increased staff retention
+
+A company is planning to replace its physical on-premises compute servers with AWS serverless compute services. The company wants to be able to take advantage of advanced technologies quickly after the migration.
+Which pillar of the AWS Well-Architected Framework does this plan represent?
+
+A. Security
+B. Performance efficiency Most Voted
+C. Operational excellence
+D. Reliability
+
+A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances.
+Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased.
+The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances.
+Which AWS service or tool should the company use to meet these requirements?
+
+A. AWS Systems Manager
+B. Cost Explorer
+C. AWS Trusted Advisor
+D. AWS Organizations Most Voted
+
+Which component of the AWS global infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
+
+A. AWS Region
+B. Availability Zone Most Voted
+C. Edge location
+D. AWS Outposts
+
+Which duties are the responsibility of a company that is using AWS Lambda? (Choose two.)
+
+A. Security inside of code Most Voted
+B. Selection of CPU resources
+C. Patching of operating system
+D. Writing and updating of code Most Voted
+E. Security of underlying infrastructure
+
+Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? (Choose two.)
+
+A. ׀•׀¡2 Reserved Instances
+B. EC2 Amazon Machine Images (AMIs) Most Voted
+C. Amazon Elastic Block Store (Amazon EBS) snapshots Most Voted
+D. AWS Shield
+E. Amazon GuardDuty
+
+A company is migrating to the AWS Cloud instead of running its infrastructure on premises.
+Which of the following are advantages of this migration? (Choose two.)
+
+A. Elimination of the need to perform security auditing
+B. Increased global reach and agility Most Voted
+C. Ability to deploy globally in minutes Most Voted
+D. Elimination of the cost of IT staff members
+E. Redundancy by default for all compute services
+
+A user is comparing purchase options for an application that runs on Amazon EC2 and Amazon RDS. The application cannot sustain any interruption. The application experiences a predictable amount of usage, including some seasonal spikes that last only a few weeks at a time. It is not possible to modify the application.
+Which purchase option meets these requirements MOST cost-effectively?
+
+A. Review the AWS Marketplace and buy Partial Upfront Reserved Instances to cover the predicted and seasonal load.
+B. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run on Spot Instances.
+C. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run at an On-Demand rate. Most Voted
+D. Buy Reserved Instances to cover all potential usage that results from the seasonal usage.
+
+A company wants to review its monthly costs of using Amazon EC2 and Amazon RDS for the past year.
+Which AWS service or tool provides this information?
+
+A. AWS Trusted Advisor
+B. Cost Explorer Most Voted
+C. Amazon Forecast
+D. Amazon CloudWatch
+
+A company wants to migrate a critical application to AWS. The application has a short runtime. The application is invoked by changes in data or by shifts in system state. The company needs a compute solution that maximizes operational efficiency and minimizes the cost of running the application.
+Which AWS solution should the company use to meet these requirements?
+
+A. Amazon EC2 On-Demand Instances
+B. AWS Lambda Most Voted
+C. Amazon EC2 Reserved Instances
+D. Amazon EC2 Spot Instances
